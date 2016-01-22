@@ -5,7 +5,7 @@ machine:
 
 dependencies:
   override:
-    - composer install --prefer-source --no-interaction --no-dev
+    - composer install --prefer-source --no-interaction
 
 # deployment:
 #   master:
