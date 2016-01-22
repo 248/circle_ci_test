@@ -13,9 +13,9 @@ dependencies:
 #     commands:
 #       - sh deploy.sh
 
-test:
-  override:
-    - vendor/bin/phpunit
+# test:
+#   override:
+#     - vendor/bin/phpunit
 # test:
 #   # pre:
 #     # - cd Laravel
